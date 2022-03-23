@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomaSysRq
-- 👀 I’m interested in programming 2D games, based on famous games(Half-Life and etc.) stories
+- 👀 I’m interested in programming 2D games, based o n famous games(Half-Life and etc.) stories and other strange stuff.
 - 🌱 I’m currently learning Unity and Python
 - 💞️ Now I’m not looking to collaborate on 
 - 📫 How to reach me : baronov2010@gmail.com
