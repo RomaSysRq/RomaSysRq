@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomaSysRq
-- 👀 I’m interested in programming db based programs , office programs (because I bored) and other strange stuff.
+- 👀 I’m interested in programming python programs , office programs and other strange stuff.
 - 🌱 I’m currently learning Python
 - 💞️ Now I’m not looking to collaborate on 
 - 📫 How to reach me : romasysrq@gmail.com
